@@ -34,3 +34,10 @@ a {
 a:visited, a:hover, a:active {
   color: rgba(20, 90, 50, 0.5);
 }
+
+.blue {
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
