@@ -104,3 +104,7 @@ footer {
   color: rgba(20, 90, 50, 0.5);
   padding: 10px;
 }
+
+.published {
+  font-style: italic;
+}
