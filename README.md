@@ -1,6 +1,6 @@
 # _Independent Project_
 
-#### _Biography style information about the author of this page and the interest of food, plants, and people., Dated: August 23, 2019_
+#### _Biography style information about the author of this page and the interest of pets, plants, and people., Dated: August 23, 2019_
 
 #### By _**Malia Bartolome**_
 
