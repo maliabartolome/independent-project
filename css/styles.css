@@ -52,6 +52,7 @@ nav a {
   padding: 8%;
 }
 
-img.col-md-4 {
+.col-md-4 img {
   width: 300px;
+  display: float;
 }
