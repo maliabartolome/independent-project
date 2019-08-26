@@ -46,6 +46,24 @@ a:visited, a:hover, a:active {
 h2 {
   font: simplifica;
   font-weight:lighter;
+  padding: 10px;
+}
+
+h3 {
+  font: simplifica;
+  font-weight:lighter;
+  padding: 10px;
+}
+
+.jumbotron {
+  color: white;
+  background-color: rgba(20, 90, 50, 0.5);
+  width: 100%;
+  padding: 0px;
+  margin-bottom: 0px;
+  border-radius: 0px;
+  box-sizing: border-box;
+  line-height: 60px;
 }
 
 nav a {
@@ -55,4 +73,8 @@ nav a {
 .col-md-4 img {
   width: 300px;
   display: float;
+}
+
+@media query {
+
 }
