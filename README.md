@@ -7,7 +7,7 @@
 ## Setup/Installation Requirements
 * _Create a directory named Independent-Project_
 * _Create sub directories within the root directory named img, html, and css_
-* _Create a file named index.html under root directory_
+* _Create a file named [index.html](https://maliabartolome.github.io/independent-project/index.html) under root directory_
 * _Create styles.css under the css sub directory_
 * _Create the about-me.html and blog.html under the html sub directory_
 * _Git Init_
