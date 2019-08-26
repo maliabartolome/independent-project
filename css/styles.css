@@ -46,5 +46,8 @@ a:visited, a:hover, a:active {
 h2 {
   font: simplifica;
   font-weight:lighter;
+}
 
+nav a {
+  padding: 8%;
 }
