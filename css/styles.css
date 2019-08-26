@@ -1,4 +1,4 @@
-header {
+header footer {
   display: block;
 }
 
@@ -98,4 +98,9 @@ ul {
 .sidebar {
   width: 50%;
   float: right;
+}
+
+footer {
+  color: rgba(20, 90, 50, 0.5);
+  padding: 10px;
 }
