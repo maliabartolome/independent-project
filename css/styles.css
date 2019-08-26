@@ -52,11 +52,7 @@ h2 {
 h3 {
   font: simplifica;
   font-weight:lighter;
-  padding: 10px;
-}
-
-p h3 {
-  padding: 10px;
+  padding: 10px;;
 }
 
 .jumbotron {
@@ -88,6 +84,18 @@ nav a {
   padding-top: 10px;
 }
 
-@media query {
+@media screen and (min-width:1000px) {
+  .column {
+    width: 300px;
+    float: none;
+    padding: 20px;
+}
 
+ul {
+  list-style-type: none;
+}
+
+.sidebar {
+  width: 50%;
+  float: right;
 }
