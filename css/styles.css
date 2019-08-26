@@ -55,6 +55,10 @@ h3 {
   padding: 10px;
 }
 
+p h3 {
+  padding: 10px;
+}
+
 .jumbotron {
   color: white;
   background-color: rgba(20, 90, 50, 0.5);
