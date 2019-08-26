@@ -5,12 +5,19 @@
 #### By _**Malia Bartolome**_
 
 ## Setup/Installation Requirements
-* _O_
-* _O_
-* _O_
-* _O_
-* _O_
-* _O_
+* _Create a directory named Independent-Project_
+* _Create sub directories within the root directory named img, html, and css_
+* _Create a file named index.html under root directory_
+* _Create styles.css under the css sub directory_
+* _Create the about-me.html and blog.html under the html sub directory_
+* _Git Init_
+* _Git add ._
+* _Git commit -m"changed"_
+* _Git push origin master_
+* _Create css commands_
+* _Build out the content in the html_
+* _Repeat pushing process_
+* _Upload to branch_
 
 ## No known bugs at this time
 
